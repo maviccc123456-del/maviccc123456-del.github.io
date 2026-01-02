@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>PointNet on My Tech Blog</title>
+        <link>https://maviccc123456-del.github.io/pointnet/</link>
+        <description>Recent content in PointNet on My Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://maviccc123456-del.github.io/pointnet/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>T-Net 的作用</title>
+        <link>https://maviccc123456-del.github.io/pointnet/tnet/</link>
+        <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://maviccc123456-del.github.io/pointnet/tnet/</guid>
+        <description>&lt;p&gt;T-Net 的目的是学习一个 **对齐矩阵**，让点云具有旋转不变性。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

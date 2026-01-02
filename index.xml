@@ -5,6 +5,41 @@
         <link>https://maviccc123456-del.github.io/</link>
         <description>Recent content on My Tech Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="https://maviccc123456-del.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://maviccc123456-del.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Set Abstraction 层</title>
+        <link>https://maviccc123456-del.github.io/pointnetpp/set-abstraction/</link>
+        <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://maviccc123456-del.github.io/pointnetpp/set-abstraction/</guid>
+        <description>&lt;p&gt;## Set Abstraction 是什么？&lt;/p&gt;
+&lt;p&gt;PointNet++ 中最核心的模块，用来：&lt;/p&gt;
+&lt;p&gt;- 构建局部邻域&lt;/p&gt;
+&lt;p&gt;- 提取局部几何特征&lt;/p&gt;
+&lt;p&gt;### 核心步骤&lt;/p&gt;
+&lt;p&gt;1. Sampling&lt;/p&gt;
+&lt;p&gt;2. Grouping&lt;/p&gt;
+&lt;p&gt;3. PointNet&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>T-Net 的作用</title>
+        <link>https://maviccc123456-del.github.io/pointnet/tnet/</link>
+        <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://maviccc123456-del.github.io/pointnet/tnet/</guid>
+        <description>&lt;p&gt;T-Net 的目的是学习一个 **对齐矩阵**，让点云具有旋转不变性。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>点云基础概念</title>
+        <link>https://maviccc123456-del.github.io/pointcloud/basics/</link>
+        <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://maviccc123456-del.github.io/pointcloud/basics/</guid>
+        <description>&lt;p&gt;点云是由大量三维点 (x, y, z) 构成的数据形式。&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>

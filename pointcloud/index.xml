@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Point Cloud 基础 on My Tech Blog</title>
+        <link>https://maviccc123456-del.github.io/pointcloud/</link>
+        <description>Recent content in Point Cloud 基础 on My Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://maviccc123456-del.github.io/pointcloud/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>点云基础概念</title>
+        <link>https://maviccc123456-del.github.io/pointcloud/basics/</link>
+        <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://maviccc123456-del.github.io/pointcloud/basics/</guid>
+        <description>&lt;p&gt;点云是由大量三维点 (x, y, z) 构成的数据形式。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
