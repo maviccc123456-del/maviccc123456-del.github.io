@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 楊 的学习博客</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on 楊 的学习博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的学习记录开始了</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;这是我的第一篇学习博客。&lt;/p&gt;&#xA;&lt;p&gt;我会在这里记录：&lt;/p&gt;&#xA;&lt;p&gt;- 课程学习&lt;/p&gt;&#xA;&lt;p&gt;- 编程实践&lt;/p&gt;&#xA;&lt;p&gt;- 遇到的问题和解决过程&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
